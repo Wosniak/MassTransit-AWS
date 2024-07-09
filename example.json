@@ -1,0 +1,19 @@
+{
+    "person" :
+        {
+            "name": "Teste 1",
+            "age": 19,
+            "birthdate": "1980-12-21"
+        },
+
+    "company":
+        {    
+            "name": "ACME",
+            "address": "123 Main St",
+            "buildingNumber": 7,
+            "city": "New York",
+            "state": "NY",
+            "postalCode": "10001",
+            "active": true
+        }
+}
